@@ -1,0 +1,35 @@
+[
+  {
+    "date": "2026-07-13",
+    "macrostructure": "Narrative Workflow",
+    "theme": "custom",
+    "theme_axes": "light / geometric-sans / cool-aqua",
+    "vibe": "soft, premium, intelligent, tactile",
+    "enrichment": "E5 generated character scenes plus local VP8 motion loops",
+    "nav": "N12 Banner + retract",
+    "footer": "Ft8 Marquee scroll",
+    "brief": "Veeko · complete Shopify intelligence portfolio landing"
+  },
+  {
+    "date": "2026-07-13",
+    "macrostructure": "Marquee Hero",
+    "theme": "custom",
+    "theme_axes": "dark / grotesk-sans / cool-teal",
+    "vibe": "cinematic, intelligent, metallic, calm",
+    "enrichment": "E2 full-bleed muted video",
+    "nav": "N5 Floating pill",
+    "footer": "Ft5 Statement",
+    "brief": "Veeko · AI-powered Shopify intelligence portfolio showcase"
+  },
+  {
+    "date": "2026-07-13",
+    "macrostructure": "Marquee Hero",
+    "theme": "custom",
+    "theme_axes": "dark / display-condensed-bold / chromatic-phosphor",
+    "vibe": "deep-space, cinematic, liquid, phosphor",
+    "enrichment": "E2 full-bleed muted video",
+    "nav": "N5 Floating pill",
+    "footer": "Ft5 Statement",
+    "brief": "Orbis.Nft · four-section NFT collection landing page"
+  }
+]
